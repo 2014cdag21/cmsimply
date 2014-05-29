@@ -2,4 +2,4 @@
 
 http://cmsimply-40123156.rhcloud.com/
 
-但是此倉儲中的CMSimply的密碼改回admin了
+但是此倉儲中的CMSimply的密碼改回admin
